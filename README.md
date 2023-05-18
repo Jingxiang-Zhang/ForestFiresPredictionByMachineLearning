@@ -2,6 +2,8 @@
 
 This is the final project of EE 559, USC. Click [here] to read the whole report. Here, I will only make a brief introduction and conclusion of this project.
 
+click [here](https://github.com/Jingxiang-Zhang/ForestFiresPredictionByMachineLearning/blob/main/report.pdf) to view the report.
+
 ##### Abstract
 
 The fire happened frequently in Algeria in summer, so it is crucial to set up a model to predict the fire by using the sensor data. To find the best model, I will use the data over the period of 3 months as a training dataset, and 1 month as a test dataset. Use cross validation method to separate the training dataset.
