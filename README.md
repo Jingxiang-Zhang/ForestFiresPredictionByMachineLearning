@@ -1,8 +1,7 @@
 ### Forest Fires Prediction
 
-This is the final project of EE 559, USC. Click [here] to read the whole report. Here, I will only make a brief introduction and conclusion of this project.
+This is the final project of EE 559, USC. click [here](https://github.com/Jingxiang-Zhang/ForestFiresPredictionByMachineLearning/blob/main/report.pdf) to view the report. Here, I will only make a brief introduction and conclusion of this project.
 
-click [here](https://github.com/Jingxiang-Zhang/ForestFiresPredictionByMachineLearning/blob/main/report.pdf) to view the report.
 
 ##### Abstract
 
